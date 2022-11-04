@@ -18,9 +18,7 @@ C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug
 C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug\netcoreapp2.1\WebApplicationUnip2022.TagHelpers.output.cache
 C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug\netcoreapp2.1\WebApplicationUnip2022.RazorCoreGenerate.cache
 C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
-C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
 C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -34,4 +32,13 @@ C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug
 C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug\netcoreapp2.1\WebApplicationUnip2022.pdb
 C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug\netcoreapp2.1\WebApplicationUnip2022.genruntimeconfig.cache
 C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug\netcoreapp2.1\WebApplicationUnip2022.csproj.CopyComplete
-C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug\netcoreapp2.1\Razor\Views\Contato\Index.cshtml.g.cs
+C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug\netcoreapp2.1\Razor\Views\Pessoa\Criar.cshtml.g.cs
+C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug\netcoreapp2.1\Razor\Views\Pessoa\Deletar.cshtml.g.cs
+C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug\netcoreapp2.1\Razor\Views\Pessoa\Editar.cshtml.g.cs
+C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug\netcoreapp2.1\Razor\Views\Pessoa\Index.cshtml.g.cs
+C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug\netcoreapp2.1\Razor\Views\Telefone\CriarTelefone.cshtml.g.cs
+C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug\netcoreapp2.1\Razor\Views\Telefone\DeletarTelefone.cshtml.g.cs
+C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug\netcoreapp2.1\Razor\Views\Telefone\EditarTelefone.cshtml.g.cs
+C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug\netcoreapp2.1\Razor\Views\Endereco\CriarEndereco.cshtml.g.cs
+C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug\netcoreapp2.1\Razor\Views\Endereco\DeletarEndereco.cshtml.g.cs
+C:\Users\Saulo\workspace\WebApplicationUnip2022\WebApplicationUnip2022\obj\Debug\netcoreapp2.1\Razor\Views\Endereco\EditarEndereco.cshtml.g.cs
